@@ -1,0 +1,17 @@
+{
+  "name": "hw_tdd_jurrassic_m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "five": "^0.8.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
